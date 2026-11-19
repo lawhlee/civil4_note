@@ -1,0 +1,1 @@
+window.LECTURE={pages:[],toc:[],units:[]};
